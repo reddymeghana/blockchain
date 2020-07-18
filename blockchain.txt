@@ -1,0 +1,18 @@
+Blockchain 
+Blockchain is a modern time distributed ledger which stores the data securely since it is immutable.
+It is a record od data that is distributed and managed by cluster of computers.
+
+Aim of blockchain
+It addresses the problem of data security and trust making the ledger public.
+
+Features of blockchain
+>immutable
+>decentralised ledger
+>security
+
+Block contains
+>miner
+>previous hash value
+>transaction info
+
+Block chain cab be verified through the hash values.
